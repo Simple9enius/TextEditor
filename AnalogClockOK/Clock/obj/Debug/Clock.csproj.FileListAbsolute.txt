@@ -1,0 +1,10 @@
+C:\Users\igor_\OneDrive\Desktop\Нова папка (3)\AnalogClock\Clock\bin\Debug\Clock2.exe.config
+C:\Users\igor_\OneDrive\Desktop\Нова папка (3)\AnalogClock\Clock\bin\Debug\Clock2.exe
+C:\Users\igor_\OneDrive\Desktop\Нова папка (3)\AnalogClock\Clock\bin\Debug\Clock2.pdb
+C:\Users\igor_\OneDrive\Desktop\Нова папка (3)\AnalogClock\Clock\obj\Debug\Clock.csprojAssemblyReference.cache
+C:\Users\igor_\OneDrive\Desktop\Нова папка (3)\AnalogClock\Clock\obj\Debug\Clock2.Clock.resources
+C:\Users\igor_\OneDrive\Desktop\Нова папка (3)\AnalogClock\Clock\obj\Debug\Clock2.Properties.Resources.resources
+C:\Users\igor_\OneDrive\Desktop\Нова папка (3)\AnalogClock\Clock\obj\Debug\Clock.csproj.GenerateResource.cache
+C:\Users\igor_\OneDrive\Desktop\Нова папка (3)\AnalogClock\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+C:\Users\igor_\OneDrive\Desktop\Нова папка (3)\AnalogClock\Clock\obj\Debug\Clock2.exe
+C:\Users\igor_\OneDrive\Desktop\Нова папка (3)\AnalogClock\Clock\obj\Debug\Clock2.pdb
